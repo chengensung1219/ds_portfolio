@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Simon Sung CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
+<div id="https://github.com/chengensung1219/ds_portfolio">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>

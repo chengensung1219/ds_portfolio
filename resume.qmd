@@ -2,18 +2,18 @@
 layout: cv
 title: Simon Sung CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Simon Sung
+Computer Science | Mobile Development | Software Development
 
 <div id="https://github.com/chengensung1219/ds_portfolio">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="chengensung1219@gmail.com">chengensung1219@gmail.com</a>
+| <a href="https://www.linkedin.com/in/chengensung1219">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a BYU-Idaho student. Looking for a full time job for software engineering, mobile development, or the position relate to the computer science.
 
 ### Specialized in
 

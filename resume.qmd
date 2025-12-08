@@ -13,77 +13,72 @@ Computer Science | Mobile Development | Software Development
 
 ## Currently
 
-I am a BYU-Idaho student. Looking for a full time job for software engineering, mobile development, or the position relate to the computer science.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I am a BYU-Idaho student, major in computer science, and currently looking for a full time job oportunity for software engineering, mobile development, or the position relate to my major.
 
 
-### Research interests
+### Key Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- __Proficient Skills:__ Swift, SwiftUI, C#, and Python
+- __Developing Skills:__ Java, C++, Google Script, HTML, CSS, and JavaScript
+- __Other Skills:__ Mandarin, Jira, Trello, Word, Excel, and PowerPoint
+- __Soft Skills:__ Problem Solving, Team Work, Adaptive Learning, Time Management, and Communication
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`January 2023 - December 2023`
+__Brigham Young University - Hawaii__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor Degree in Computer Science 
 
-- Sizar
+`January 2024 - now`
+__Brigham Young University - Idaho__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor Degree in Computer Science 
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Professional Experience
 
 
+#### Faculty Technology Center: Technology Specialist
+`March 2024 - April 2025`
+Brigham Young University - Idaho
 
-## Publications
+- Enhanced updating process efficiency from 13+ weeks to 1 day by developing 1 Google Script program with Canvas API application to pull out data and write it to tracker spreadsheet.
+- Played a key role in team by setting and following up 1 personal learning goals each week to increase coding field knowledge
+- Promoted open communication with team members and other departments by regularly attending social engagements
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+#### iOS Mobile Development
+`March 2025 - September 2025`
+The Church of Jesus Christ of Latter-day Saints
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Resolved over 100 UI and functional bugs to provide a better user experience for over 100,000 users
+- Promoted open communication with team members to increase workflow smoothness by asking meaningful questions and sharing observations
+- Reinvented over 50 accessibility features for VoiceOver users for Gospel Library App
+- Built a recent image gallery feature for Gospel Library App to allow users to see new images each week
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Projects
 
-- Warden
-- Minted coins
+#### SwiftUI Weather Mobile APP
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2025 - February 2025`
+Student Personal Academic Project
 
+- Founded and launched a mobile weather app for iOS devices to provide users with a nice look, clean, and easy-to-use weather app
+- Implement OpenWeather API into application to update information according users' location and time
+- [GitHub Repository](https://github.com/chengensung1219/iosweatherapp)
 
+#### C++ Snake Game
+`January 2025 - February 2025`
+Student Personal Academic Project 
+
+- Develop a snake game Implementing Raylib library to create a functional game with 2 systems (scoring system and trigger system)
+- Applied 4 principles in object-oriented programming (abstraction, inheritance, polymorphism, and encapsulation) to design efficient and scalable solutions
+- [GitHub Repository](https://github.com/chengensung1219/SnakeGame)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2025 -->
